@@ -1,4 +1,4 @@
-# Hi, I'm Abdul Maham 👋
+# Hi, I'm Campbell Miha 👋
 
 Full-stack web and mobile developer building useful, maintainable software.
 
