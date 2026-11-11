@@ -35,8 +35,8 @@ I enjoy learning new technologies, turning ideas into products, and solving prac
 ## GitHub activity
 
 <div align="center">
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=iamMAHAM&theme=default" alt="Abdul Maham's GitHub statistics" />
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=iamMAHAM&theme=default" alt="Most used languages" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=izuko7&theme=default" alt="Mes statistiques GitHub" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=izuko7&theme=default" alt="Mes langages les plus utilisés" />
 </div>
 
 ## Currently
